@@ -1,4 +1,5 @@
-<img width="1891" height="975" alt="image" src="https://github.com/user-attachments/assets/2bfdcdfc-05c2-4ee8-b979-9f2ae684f133" />
+<img width="1643" height="973" alt="image" src="https://github.com/user-attachments/assets/626612d0-cab8-4a06-9764-6514670625a1" />
+
 # ESP · M17 — Offline ESP8266 Radio Terminal
 
 An experimental 2.4 GHz radio project combining a universal ESP8266 firmware with a self-contained browser terminal for voice, audio DTMF and SMS.
